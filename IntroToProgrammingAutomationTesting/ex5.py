@@ -1,0 +1,5 @@
+bday = input("What is your age? ")
+byear = 2021 - int(bday)
+# age = 2021 - float(bday)
+# age = 2021 - bool(bday)
+print(f'The year you were born was {byear}')
