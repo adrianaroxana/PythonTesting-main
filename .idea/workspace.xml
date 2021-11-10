@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d11dd01f-ed3c-4580-b16d-5aaca448d599" name="Changes" comment="" />
+    <list default="true" id="d11dd01f-ed3c-4580-b16d-5aaca448d599" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/autocomplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/homepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/navbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Resources/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_homepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/test_case_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,12 +34,15 @@
     <setting file="file://$PROJECT_DIR$/AutomationFramework/main.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1xm0tb9iGRGaj1s4Pj0LXkZRKLm" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
@@ -40,7 +56,7 @@
       <recent name="D:\Testing Recordings\PythonTesting-main\AutomationFramework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.main">
+  <component name="RunManager" selected="Python.tc_autocomplete">
     <configuration name="check_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -54,27 +70,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check_login.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="checklogin2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTesting" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/checklogin2.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -125,6 +120,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="tc_autocomplete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -148,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.tc_autocomplete" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.vehicle" />
         <item itemvalue="Python.check_login" />
         <item itemvalue="Python.login" />
-        <item itemvalue="Python.checklogin2" />
       </list>
     </recent_temporary>
   </component>
@@ -178,5 +194,8 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
