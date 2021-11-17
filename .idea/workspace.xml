@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d11dd01f-ed3c-4580-b16d-5aaca448d599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/autocomplete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/homepage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/navbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_homepage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/test_case_model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/driver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumDriver/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumDriver/google_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumDriver/login_heroku_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/checkbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/datepicker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/drag_and_drop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/file_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/radio_button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/switch_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_checkbox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_datepicker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_drag_and_drop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_file_upload.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_navbar.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_radio_buttons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_switch_window.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/autocomplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/autocomplete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/driver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,8 +67,8 @@
       <recent name="D:\Testing Recordings\PythonTesting-main\AutomationFramework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.tc_autocomplete">
-    <configuration name="check_login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.maps_address_search">
+    <configuration name="login_heroku_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -65,11 +76,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumDriver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/check_login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumDriver/login_heroku_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +89,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="login" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="maps_address_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,11 +97,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumDriver" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,28 +110,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="PythonTesting" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/AutomationFramework" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AutomationFramework/main.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="tc_autocomplete" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tc_navbar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +122,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_navbar.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -141,7 +131,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="vehicle" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tc_radio_buttons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -149,11 +139,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOP_Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOP_Python/vehicle.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_radio_buttons.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tc_switch_window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PythonTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_switch_window.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.tc_autocomplete" />
-        <item itemvalue="Python.main" />
-        <item itemvalue="Python.vehicle" />
-        <item itemvalue="Python.check_login" />
-        <item itemvalue="Python.login" />
+        <item itemvalue="Python.maps_address_search" />
+        <item itemvalue="Python.login_heroku_test" />
+        <item itemvalue="Python.tc_switch_window" />
+        <item itemvalue="Python.tc_radio_buttons" />
+        <item itemvalue="Python.tc_navbar" />
       </list>
     </recent_temporary>
   </component>

@@ -2,7 +2,7 @@ from selenium import webdriver
 
 
 class Driver:
-    def __init__(self, browser = "Chrome", path = "D:/Testing Recordings/PythonTesting-main/SeleniumWorkshop_POM/Resources/chromedriver.exe"):
+    def __init__(self, browser = "Chrome", path = "D:/AUTOMATION TESTING COURSE/PythonTesting-main/SeleniumWorkshop_POM/Resources/chromedriver.exe"):
         self._browser = browser
         self._path = path
 

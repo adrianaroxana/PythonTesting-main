@@ -17,6 +17,16 @@ class TestAutocomplete(TestCaseModel):
         time.sleep(3)
         self.auto.click_on_street_address()
         time.sleep(3)
+        self.auto.click_on_street_address2()
+        time.sleep(3)
+        self.auto.click_on_city()
+        time.sleep(3)
+        self.auto.click_on_state()
+        time.sleep(3)
+        self.auto.click_on_zipcode()
+        time.sleep(3)
+        self.auto.click_on_country()
+        time.sleep(3)
 
     def tear_down(self):
         self.home.quit_test()

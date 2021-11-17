@@ -11,22 +11,22 @@ class Autocomplete(Driver):
     COUNTRY = "country"
 
     def click_on_address(self):
-        print(f"Click on element with selector{self.ADDRESS}")
+        print(f"Click on element with selector {self.ADDRESS}")
 
     def click_on_street_address(self):
-        print(f"Click on element with selector{self.STREET_ADDRESS}")
+        print(f"Click on element with selector {self.STREET_ADDRESS}")
 
     def click_on_street_address2(self):
-        print(f"Click on element with selector{self.STREET_ADDRESS2}")
+        print(f"Click on element with selector {self.STREET_ADDRESS2}")
 
     def click_on_city(self):
-        print(f"Click on element with selector{self.CITY}")
+        print(f"Click on element with selector {self.CITY}")
 
     def click_on_state(self):
-        print(f"Click on element with selector{self.STATE}")
+        print(f"Click on element with selector {self.STATE}")
 
     def click_on_zipcode(self):
-        print(f"Click on element with selector{self.ZIP_CODE}")
+        print(f"Click on element with selector {self.ZIP_CODE}")
 
     def click_on_country(self):
-        print(f"Click on element with selector{self.COUNTRY}")
+        print(f"Click on element with selector {self.COUNTRY}")
