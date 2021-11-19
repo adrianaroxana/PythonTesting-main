@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d11dd01f-ed3c-4580-b16d-5aaca448d599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CreareTestSuite/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreareTestSuite/basic_auth.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreareTestSuite/basic_auth_oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreareTestSuite/context_menu_oop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CreareTestSuite/multiple_tabs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
