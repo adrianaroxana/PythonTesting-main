@@ -2,29 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d11dd01f-ed3c-4580-b16d-5aaca448d599" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/SeleniumDriver/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumDriver/google_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumDriver/login_heroku_test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/checkbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/datepicker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/drag_and_drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/file_upload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/radio_button.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/switch_window.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_checkbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_datepicker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_drag_and_drop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_file_upload.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_navbar.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_radio_buttons.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_switch_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreareTestSuite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreareTestSuite/basic_auth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreareTestSuite/basic_auth_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreareTestSuite/context_menu_oop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreareTestSuite/multiple_tabs.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/autocomplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/autocomplete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_homepage.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumWorkshop_POM/driver.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,119 +51,84 @@
       <recent name="D:\Testing Recordings\PythonTesting-main\AutomationFramework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.maps_address_search">
-    <configuration name="login_heroku_test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests for multiple_tabs.TestMultipleTabs.test_multiple_tabs">
+    <configuration name="Python tests for context_menu_oop.TestContext.test_context" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumDriver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumDriver/login_heroku_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;context_menu_oop.TestContext.test_context&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="maps_address_search" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for multiple_tabs.TestMultipleTabs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumDriver" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;multiple_tabs.TestMultipleTabs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="tc_navbar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for multiple_tabs.TestMultipleTabs.test_multiple_tabs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_navbar.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;multiple_tabs.TestMultipleTabs.test_multiple_tabs&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="tc_radio_buttons" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in context_menu_oop.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_radio_buttons.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CreareTestSuite/context_menu_oop.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="tc_switch_window" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in multiple_tabs.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_switch_window.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CreareTestSuite/multiple_tabs.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.maps_address_search" />
-        <item itemvalue="Python.login_heroku_test" />
-        <item itemvalue="Python.tc_switch_window" />
-        <item itemvalue="Python.tc_radio_buttons" />
-        <item itemvalue="Python.tc_navbar" />
+        <item itemvalue="Python tests.Python tests for multiple_tabs.TestMultipleTabs.test_multiple_tabs" />
+        <item itemvalue="Python tests.Python tests in multiple_tabs.py" />
+        <item itemvalue="Python tests.Python tests for multiple_tabs.TestMultipleTabs" />
+        <item itemvalue="Python tests.Python tests for context_menu_oop.TestContext.test_context" />
+        <item itemvalue="Python tests.Python tests in context_menu_oop.py" />
       </list>
     </recent_temporary>
   </component>
