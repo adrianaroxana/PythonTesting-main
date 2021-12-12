@@ -2,7 +2,59 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d11dd01f-ed3c-4580-b16d-5aaca448d599" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/environment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/login.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/maps_calculate_distance.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/maps_search_address.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/steps/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/steps/steps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/test1.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/test2.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreateTestSuiteProcedural/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreateTestSuiteProcedural/lambdatest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CreateTestSuiteProcedural/runner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DataDrivenTesting/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjectModel/Pages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PageObjectModel/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationFramework/TestData/input_data.json" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenTesting/TestData/input_data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationFramework/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationFramework/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenTesting/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AutomationFramework/utile.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataDrivenTesting/utile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreareTestSuite/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreareTestSuite/basic_auth.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateTestSuiteProcedural/basic_auth.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreareTestSuite/basic_auth_oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateTestSuiteProcedural/basic_auth_oop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreareTestSuite/context_menu_oop.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateTestSuiteProcedural/context_menu_oop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CreareTestSuite/multiple_tabs.py" beforeDir="false" afterPath="$PROJECT_DIR$/CreateTestSuiteProcedural/multiple_tabs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDriver/google_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDriver/google_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumDriver/login_heroku_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDriver/login_heroku_test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" beforeDir="false" afterPath="$PROJECT_DIR$/SeleniumDriver/maps_address_search.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/autocomplete.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/autocomplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/autocomplete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/checkbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/checkbox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/datepicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/datepicker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/drag_and_drop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/drag_and_drop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/file_upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/file_upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/navbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/navbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/radio_button.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/radio_button.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Pages/switch_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Pages/switch_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/Resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/Resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/behave.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_autocomplete.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_autocomplete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_checkbox.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_checkbox.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_datepicker.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_datepicker.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_drag_and_drop.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_drag_and_drop.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_file_upload.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_file_upload.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_homepage.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_homepage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_navbar.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_navbar.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_radio_buttons.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_radio_buttons.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/tc_switch_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/tc_switch_window.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/TestCases/test_case_model.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/TestCases/test_case_model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/BehaviourDrivenDevelopment/features/google_search.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SeleniumWorkshop_POM/driver.py" beforeDir="false" afterPath="$PROJECT_DIR$/PageObjectModel/driver.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,7 +72,7 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/AutomationFramework/main.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DataDrivenTesting/main.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProjectId" id="1xm0tb9iGRGaj1s4Pj0LXkZRKLm" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -38,67 +90,54 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\AUTOMATION TESTING COURSE\PythonTesting-main\PageObjectModel\Resources" />
       <recent name="D:\Testing Recordings\PythonTesting-main\AutomationFramework" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.Python tests for multiple_tabs.TestMultipleTabs.test_multiple_tabs">
-    <configuration name="Python tests for context_menu_oop.TestContext.test_context" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.Python tests in lambdatest.py">
+    <configuration name="Python tests for CreateTestSuiteProcedural.multiple_tabs.TestMultipleTabs.test_multiple_tabs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreateTestSuiteProcedural" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;context_menu_oop.TestContext.test_context&quot;" />
+      <option name="_new_target" value="&quot;CreateTestSuiteProcedural.multiple_tabs.TestMultipleTabs.test_multiple_tabs&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for multiple_tabs.TestMultipleTabs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests for CreateTestSuiteProcedural.runner.MyTestSuite.test_suite" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreateTestSuiteProcedural" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;multiple_tabs.TestMultipleTabs&quot;" />
+      <option name="_new_target" value="&quot;CreateTestSuiteProcedural.runner.MyTestSuite.test_suite&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="Python tests for multiple_tabs.TestMultipleTabs.test_multiple_tabs" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+    <configuration name="Python tests in lambdatest.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="PythonTesting" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreateTestSuiteProcedural" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;multiple_tabs.TestMultipleTabs.test_multiple_tabs&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Python tests in context_menu_oop.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
-      <module name="PythonTesting" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/CreareTestSuite/context_menu_oop.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CreateTestSuiteProcedural/lambdatest.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
@@ -107,22 +146,36 @@
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreareTestSuite" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreateTestSuiteProcedural" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/CreareTestSuite/multiple_tabs.py&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CreateTestSuiteProcedural/multiple_tabs.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests in runner.py" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="PythonTesting" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CreateTestSuiteProcedural" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/CreateTestSuiteProcedural/runner.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Python tests for multiple_tabs.TestMultipleTabs.test_multiple_tabs" />
+        <item itemvalue="Python tests.Python tests in lambdatest.py" />
+        <item itemvalue="Python tests.Python tests in runner.py" />
+        <item itemvalue="Python tests.Python tests for CreateTestSuiteProcedural.runner.MyTestSuite.test_suite" />
+        <item itemvalue="Python tests.Python tests for CreateTestSuiteProcedural.multiple_tabs.TestMultipleTabs.test_multiple_tabs" />
         <item itemvalue="Python tests.Python tests in multiple_tabs.py" />
-        <item itemvalue="Python tests.Python tests for multiple_tabs.TestMultipleTabs" />
-        <item itemvalue="Python tests.Python tests for context_menu_oop.TestContext.test_context" />
-        <item itemvalue="Python tests.Python tests in context_menu_oop.py" />
       </list>
     </recent_temporary>
   </component>
